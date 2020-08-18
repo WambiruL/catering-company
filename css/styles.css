@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+.jumbotron p{
+    font-size: 2em;
+    font-style: italic;
+}
+h3{
+    font-size: 2em;
+    font-style: italic;
+}
+li{
+    font-family: monospace;
+    font-size: large;
+    line-height: 30px;
+}
